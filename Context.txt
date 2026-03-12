@@ -1,0 +1,300 @@
+Slide 1 — Portada
+Objetivo
+
+Crear impacto inmediato y posicionarte como consultor estratégico.
+
+Layout
+
+Izquierda (60%)
+
+Título grande:
+
+Reorganización de Marca
+y Plataforma Digital
+
+Subtítulo:
+
+CyC del Sureste
+Tecnología Ambiental y Agrícola
+
+Texto pequeño abajo:
+
+Propuesta estratégica de posicionamiento digital
+
+Derecha (40%)
+
+Imagen dividida en dos:
+
+arriba:
+
+planta de tratamiento de agua
+
+abajo:
+
+dron agrícola fumigando
+
+Esto visualmente conecta:
+
+agua + agricultura
+Slide 2 — El Problema
+
+Basado en tu página 1. 
+
+Presentación sin título (1)
+
+Layout
+
+Título:
+
+El Problema Actual
+
+Centro de la slide:
+
+Dos bloques.
+
+Bloque 1
+
+Icono: gota de agua
+
+Texto:
+
+Clientes conocen
+Blue Drop
+Bloque 2
+
+Icono: edificio / empresa
+
+Texto:
+
+Pero no conocen
+CyC del Sureste
+
+Abajo:
+
+Frase clave:
+
+El producto se percibe como la empresa.
+Slide 3 — Diagnóstico
+
+Basado en página 9. 
+
+Presentación sin título (1)
+
+Título:
+
+Diagnóstico
+Problema de Arquitectura de Marca
+
+Texto corto:
+
+Blue Drop funciona en la percepción del mercado
+como si fuera la empresa principal.
+
+Cuando en realidad es una tecnología desarrollada
+por CyC del Sureste.
+
+Abajo:
+
+3 iconos:
+
+Fragmentación de marca
+↓
+Nuevas divisiones sin posicionamiento
+↓
+Crecimiento limitado
+Slide 4 — Objetivo
+
+Título:
+
+Objetivo del Proyecto
+
+Texto central:
+
+Reorganizar la arquitectura de marca
+para posicionar a CyC del Sureste
+como la empresa matriz detrás
+de sus tecnologías.
+
+Abajo tres bullets:
+
+Fortalecer la marca corporativa
+Integrar todas las divisiones
+Preparar la empresa para nuevas tecnologías
+Slide 5 — Solución
+
+Basado en página 10. 
+
+Presentación sin título (1)
+
+Título:
+
+Solución Estratégica
+Modelo Endorsed Brand
+
+Centro de la slide:
+
+Diagrama:
+
+CyC del Sureste
+Tecnología ambiental y agrícola
+
+        │
+
+Blue Drop           Green Drone
+Tratamiento         Drones agrícolas
+de aguas
+
+Tecnología          Tecnología
+de CyC del Sureste  de CyC del Sureste
+
+Abajo:
+
+Frase:
+
+Las soluciones mantienen su identidad,
+pero construyen el valor de la empresa matriz.
+Slide 6 — Plataforma Digital
+
+Basado en página 4. 
+
+Presentación sin título (1)
+
+Título:
+
+Plataforma Digital Centralizada
+
+Mockup de laptop.
+
+Dentro del sitio:
+
+CyC del Sureste
+Tecnología para un futuro sostenible
+
+Debajo:
+
+Blue Drop
+Tratamiento de aguas
+
+Green Drone
+Tecnología agrícola
+
+Lado derecho lista:
+
+Empresa
+Divisiones
+Tecnología
+Proyectos
+Contacto
+Slide 7 — Estrategia SEO
+
+Basado en páginas 4–5. 
+
+Presentación sin título (1)
+
+Título:
+
+Estrategia SEO
+
+Diagrama:
+
+CyC del Sureste
+│
+├ Blue Drop
+│
+└ Green Drone
+
+Texto:
+
+El objetivo no es posicionar solo Blue Drop.
+
+El objetivo es posicionar a CyC del Sureste
+como la empresa detrás de la tecnología.
+
+Ejemplo:
+
+cycdelsureste.com/blue-drop
+Blue Drop | Tecnología de tratamiento de aguas | CyC
+Slide 8 — SEO avanzado
+
+Basado en páginas 6–7. 
+
+Presentación sin título (1)
+
+Título:
+
+SEO Técnico y Autoridad
+
+Tres bloques:
+
+Schema
+Organization
+CyC del Sureste
+
+Product
+Blue Drop
+Backlinks
+CyC del Sureste desarrolló
+la tecnología Blue Drop
+Contenido
+Cómo funciona Blue Drop
+Tecnología de CyC del Sureste
+Slide 9 — Estructura del sitio
+
+Basado en página 11. 
+
+Presentación sin título (1)
+
+Título:
+
+Arquitectura del Sitio
+
+Mapa:
+
+Home
+│
+Empresa
+│
+Divisiones
+   ├ Blue Drop
+   └ Green Drone
+│
+Proyectos
+│
+Blog
+│
+Contacto
+Slide 10 — Roadmap
+
+Basado en tu última slide. 
+
+Presentación sin título (1)
+
+Título:
+
+Hoja de Ruta
+
+Timeline:
+
+Fase 1
+Diagnóstico y estrategia
+
+Fase 2
+Diseño de identidad digital
+
+Fase 3
+Desarrollo y lanzamiento
+
+Fase 4
+Optimización y posicionamiento
+Slide final — Cierre
+
+Título:
+
+Transformemos la marca
+detrás de la tecnología
+
+Texto:
+
+CyC del Sureste
+Una empresa tecnológica
+con múltiples soluciones.

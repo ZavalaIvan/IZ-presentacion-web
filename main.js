@@ -309,7 +309,10 @@ function renderClosing(slide) {
     <div class="closing">
       <div class="closing__copy"><p class="eyebrow">${slide.kicker}</p><h2>${slide.title}</h2><p class="lede">${slide.text}</p></div>
       <div class="closing__statement"><p>Blue Drop</p><p>Green Drone</p><p>y las tecnologías que están por venir.</p></div>
-      <a class="closing__button closing__button--whatsapp" href="https://wa.me/529993567229?text=Hola%20Iv%C3%A1n%2C%20vi%20tu%20presentaci%C3%B3n%2C%20toma%20todo%20mi%20dinero." target="_blank" rel="noreferrer">Confirmar por WhatsApp</a>
+      <div class="closing__actions">
+        <a class="closing__button" href="${asset("CYC%20organizaci%C3%B3n%20digital.pdf")}" download="CYC organización digital.pdf">Descargar cotización</a>
+        <a class="closing__button closing__button--whatsapp" href="https://wa.me/529993567229?text=Hola%20Iv%C3%A1n%2C%20vi%20tu%20presentaci%C3%B3n%2C%20toma%20todo%20mi%20dinero." target="_blank" rel="noreferrer">Confirmar por WhatsApp</a>
+      </div>
     </div>
   `;
 }

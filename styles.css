@@ -1599,6 +1599,12 @@ h2 {
   transition: transform 220ms ease, background 220ms ease;
 }
 
+.closing__actions {
+  display: grid;
+  gap: 0.8rem;
+  justify-items: center;
+}
+
 .closing__button:hover {
   transform: translateY(-2px);
   background: rgba(255, 255, 255, 0.1);
